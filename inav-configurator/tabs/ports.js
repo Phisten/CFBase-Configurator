@@ -41,6 +41,7 @@ TABS.ports.initialize = function (callback, scrollPosition) {
     }
 
     var mspBaudRates = [
+        '4800',
         '9600',
         '19200',
         '38400',
@@ -49,6 +50,7 @@ TABS.ports.initialize = function (callback, scrollPosition) {
     ];
 
     var gpsBaudRates = [
+		'4800',
         '9600',
         '19200',
         '38400',
@@ -58,6 +60,7 @@ TABS.ports.initialize = function (callback, scrollPosition) {
 
     var telemetryBaudRates = [
         'AUTO',
+        '4800',
         '9600',
         '19200',
         '38400',
@@ -66,6 +69,7 @@ TABS.ports.initialize = function (callback, scrollPosition) {
     ];
 
     var blackboxBaudRates = [
+        '4800',
         '19200',
         '38400',
         '57600',

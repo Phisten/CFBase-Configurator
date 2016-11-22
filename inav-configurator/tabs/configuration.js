@@ -242,7 +242,8 @@ TABS.configuration.initialize = function (callback, scrollPosition) {
             '57600',
             '38400',
             '19200',
-            '9600'
+            '9600',
+			'4800'
         ];
 
         var gpsSbas = [

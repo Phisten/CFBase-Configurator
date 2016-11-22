@@ -147,6 +147,7 @@ var MSP = {
 
     supportedBaudRates: [ // 0 based index.
         'AUTO',
+        '4800',
         '9600',
         '19200',
         '38400',

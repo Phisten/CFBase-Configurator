@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
     "minimum_chrome_version": "38",
-    "version": "1.4.0",
+    "version": "1.4.0 PHv000",
     "author": "Several",
-    "name": "INAV - Configurator",
-    "short_name": "INAV",
+    "name": "INAV - Configurator (PH)",
+    "short_name": "INAV PH",
     "description": "Crossplatform configuration tool for INAVFlight flight control system",
 
     "offline_enabled": true,
